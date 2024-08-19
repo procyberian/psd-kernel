@@ -1,0 +1,43 @@
+PSD
+
+PSD adında UNIX benzeri bir işletim sistemi ve onun çekirdeği olacak PSD kernel'ini yazmaya başladım. Kaynak topluyorum. Bu aslında mevcut UNIX ve UNIX benzerleri olaran BSDler Linux kernel tabanlı sistemler ve CSD işletim sistemi projesine de destek olabilecek bir proje.
+
+AR-GE projesi ve insanlara yeteneklerini mükemmelleştirebilmeleri için bir dojo faaliyeti.
+
+Bulut bilişim çağında olmamız sebebiyle Affero GPL lisansını esas aldım. AGPL demek ağ üzerinden çalışan servisler bulut bilişim yazılımları için sunucular için ayarlanmış lisans demek. Ama ben herşeyi buna göre tasarlıyorum.
+
+Çalışmalarımız remote yani uzaktan olacak.
+
+Micro-kernel ve Monolitik kernel arasında bir yerde olacak kod mimarimiz.
+
+Kaynak kod
+
+https://github.com/procyberian/psd-kernel
+
+
+https://gitlab.com/masscollabs/procyberian/psd-kernel
+
+
+https://git.sr.ht/~mertgor/psd-kernel
+
+
+https://git.vern.cc/procyberian/psd-kernel
+
+
+https://git.disroot.org/procyberian/psd-kernel
+
+
+https://codeberg.org/procyberian/psd-kernel
+
+
+İlham aldığım video :
+
+https://www.youtube.com/watch?v=FHIKQKhqGy0&t=229s
+
+
+Tüm CSD Dernek hocalarıma teşekkür ederim.
+
+https://csystem.org/
+
+
+happy hacking ...
