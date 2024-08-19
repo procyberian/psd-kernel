@@ -2,6 +2,8 @@
 
 This is a repository for PSD Kernel Development. 
 
+* Kernel from "zero" which will be a R&D project for UNIX like systems.
+
 # License
 
 Copyright (C) 2024-2025 QB Networks
