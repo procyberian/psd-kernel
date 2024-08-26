@@ -3,7 +3,7 @@
 This is a repository for PSD Kernel Development. 
 
 * Kernel from "zero" which will be a R&D project for UNIX like systems.
-* Kernel is written pure C at first stage ...
+* Kernel is written in Assembly(GNU Assembler) and C at first stage ...
 
 # License
 
